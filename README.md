@@ -1,6 +1,9 @@
 # Recursos de Educación
 Compilación de Recursos de Educación interesantes y que necesitaré para elaborar documentación
 
+# Específico FP y DAM
+[Todo FP](https://www.todofp.es/que-estudiar/loe/informatica-comunicaciones.html)
+
 # Videos
 
 [Mi modelo de programación editable](https://www.youtube.com/watch?v=WzlgKjgwXcE)
